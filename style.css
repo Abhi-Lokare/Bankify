@@ -1,0 +1,29 @@
+td,th{
+    padding-right: 1rem;  
+}
+
+th{
+    background-color: darkgray;
+}
+
+td{
+    background-color: honeydew;
+}
+
+#cities{
+    padding: 1rem;
+}
+
+.cityName{
+    padding: 0.3rem;
+    margin: 1rem 0
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+   
+}
